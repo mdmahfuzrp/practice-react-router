@@ -7,8 +7,8 @@ const Friend = (props) => {
     return (
         <div className='friendDiv'>
             <div>
-                <h4 className='id'>Friend ID: {id}</h4>
-                <h5 className='title'>Friend Name: {name}</h5>
+                <h4 className='id color'>Friend ID: {id}</h4>
+                <h5 className='title color'>Friend Name: {name}</h5>
             </div>
             <div className='mid-div'>
                 <p className='info'>Email: {email}</p>

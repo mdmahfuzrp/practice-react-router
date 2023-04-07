@@ -14,7 +14,7 @@ const SinglePost = () => {
         <div>
             <h1 className='compo-title'>Single Post Details Here:</h1>
             <div className="singleDetails">
-                <h3>Post ID: {id}</h3>
+                <h3 className='color'>Post ID: {id}</h3>
                 <p>Post Title: {title}</p>
                 <p>Post Body: {body}</p>
                 <Link className="action-btn" onClick={handleGoBack}>Go Back</Link>
