@@ -1,0 +1,13 @@
+.header{
+    background-color: tomato;
+    padding: 15px 20px;
+    border-radius: 10px;
+}
+div a{
+    margin: 0 10px;
+    color: white;
+    transition: .3s;
+}
+div a:hover{
+    color: black;
+}

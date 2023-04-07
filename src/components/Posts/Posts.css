@@ -1,0 +1,17 @@
+.allPost{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+@media only screen and (max-width: 768px){
+    .allPost{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media only screen and (max-width: 576px){
+    .allPost{
+        grid-template-columns: 1fr;
+    }
+}

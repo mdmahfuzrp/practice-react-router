@@ -1,0 +1,20 @@
+.singlePost{
+    border: 2px solid #fff;
+    border-radius: 20px;
+    padding: 20px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #242424;
+}
+.postBtn{
+    background-color: tomato;
+    border: 2px solid tomato;
+    transition: .3s;
+}
+.postBtn:hover{
+    border: 2px solid tomato;
+    background-color: transparent;
+}

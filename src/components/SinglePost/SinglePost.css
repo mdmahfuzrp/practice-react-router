@@ -1,0 +1,18 @@
+.singleDetails{
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.439);
+    padding: 30px;
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 20px;
+    text-align: left;
+    background-color: #242424;
+}
+.singleDetails h3{
+    font-size: 25px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.singleDetails p{
+    font-size: 18px;
+    font-weight: 400;
+}

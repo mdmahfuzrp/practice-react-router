@@ -1,0 +1,8 @@
+.details{
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.439);
+    width: fit-content;
+    padding: 10px 30px 20px 30px;
+    border-radius: 20px;
+    margin: 0 auto;
+    background-color: #242424;
+}

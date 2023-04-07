@@ -1,0 +1,21 @@
+.friendDiv{
+    border: 2px solid white;
+    border-radius: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    background-color: #242424;
+}
+.friendDiv h4{
+    margin: 0;
+}
+.friendDiv h5{
+    margin: 0;
+}
+.friendDiv p{
+    margin: 0;
+}
+.mid-div{
+    margin: 5px 0;
+}
